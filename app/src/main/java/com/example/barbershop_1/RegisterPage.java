@@ -21,7 +21,7 @@ public class RegisterPage extends AppCompatActivity {
         editTextNumberPassword = findViewById(R.id.editTextTextPassword);
         editTextTextPassword = findViewById(R.id.editTextTextPassword);
         etConfirmPass = findViewById(R.id.etConfirmPass);
-        int stamxxx;
+        int stamxxxx;
 
     }
 }
